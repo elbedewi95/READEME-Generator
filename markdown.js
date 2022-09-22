@@ -9,32 +9,33 @@ Description:
 ${responses.desc}
 
 Table Of Contents:
-1. Installation:
-2. Usage
-3. Contributing
-4. Testing
-5. Questions
+1.  <a href= "#inst">Installation</a>
+2. <a href= "#use">Usage</a>
+3. <a href= "#contr">Contributing</a>
+4. <a href= "#test">Testing</a>
+5. <a href= "#questions">Questions<</a>
 
+<br> <br>
 
-1. Installation
+1.  <p id="inst">Installation:</p>
 
 To install run the following commands:
     
 ${responses.instCommand}
 
-2. Usage:
+2. <p id="use">Usage:</p>
 
 ${responses.use}
 
-3. Contributions:
+3. <p id="contr">Contributions:</p>
 
 ${responses.contribution}
 
-4. Testing:
+4. <p id="test">Testing:</p>
     
 ${responses.testCommand}
 
-5. Questions:
+5. <p id="questions">Questions:</p>
 E-mail: ${responses.email}
 GitHub: github.com/${responses.username}
 
