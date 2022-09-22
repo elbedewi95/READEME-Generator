@@ -1,42 +1,42 @@
 function markdown(responses){
     return `
-    Title: ${responses.title}
+Title: ${responses.title}
 
-    License: ${renderLicense(responses)}
+License: ${renderLicense(responses)}
 
-    Description:
+Description:
     
-    ${responses.desc}
+${responses.desc}
 
-    Table Of Contents:
-    1. Installation:
-    2. Usage
-    3. Contributing
-    4. Testing
-    5. Questions
+Table Of Contents:
+1. Installation:
+2. Usage
+3. Contributing
+4. Testing
+5. Questions
 
 
-    1. Installation
+1. Installation
 
-    To install run the following commands:
+To install run the following commands:
     
-    ${responses.instCommand}
+${responses.instCommand}
 
-    2. Usage:
+2. Usage:
 
-    ${responses.use}
+${responses.use}
 
-    3. Contributions:
+3. Contributions:
 
-    ${responses.contribution}
+${responses.contribution}
 
-    4. Testing:
+4. Testing:
     
-    ${responses.testCommand}
+${responses.testCommand}
 
-    5. Questions:
-    E-mail: ${responses.email}
-    GitHub: github.com/${responses.username}
+5. Questions:
+E-mail: ${responses.email}
+GitHub: github.com/${responses.username}
 
 
     `
