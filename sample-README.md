@@ -34,7 +34,7 @@ contributions allowed
     
 npm test
 
-5. <p> id="questions">Questions: </p>
+5. <p id="questions">Questions: </p>
 E-mail: vickybedewi-95@hotmail.com
 GitHub: github.com/elbedewi95
 
