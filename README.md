@@ -22,32 +22,32 @@ Table Of Contents:
 
 1.  <p id="inst">Installation:</p>
 
-To install run the following commands:
-    
-npm install inquirer@8.2.4
+    To install run the following commands:
+        
+    npm install inquirer@8.2.4
 
 2. <p id="use">Usage:</p>
 
-javascript and nodejs
+    To use this program, user needs to know javascript and nodejs 
 
 3. <p id="contr">Contributions:</p>
 
-contributions allowed
+    Contributions allowed, feel free to clone, branch or fork
 
 4. <p id="test">Testing:</p>
     
-npm test
+    Run test npm command to test
 
 5. <p id="questions">Questions: </p>
-E-mail: vickybedewi-95@hotmail.com
-GitHub: github.com/elbedewi95
+    E-mail: vickybedewi-95@hotmail.com
+    GitHub: github.com/elbedewi95
 
 6. <p id="screenshot"> Screenshot: </p>
-<br> <br>
+
 <img src="terminal-code.png">
 
 <br>
 7. <p id= "video"> Demo Video: </p>
-<br> <br>
+
 <a href="https://drive.google.com/file/d/1uGL3KgEcODoDUNeTyEenPgROcjunVTa1/view" target="_blank">Click to view video</a>
 
