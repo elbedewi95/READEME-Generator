@@ -47,6 +47,5 @@ Table Of Contents:
 <img src="terminal-code.png">
 
 7. <p id= "video"> Demo Video:</p>
-
-<a href="[https://drive.google.com/file/d/1uGL3KgEcODoDUNeTyEenPgROcjunVTa1/view](https://drive.google.com/file/d/1UYZ651Quj9t2w5Xk1vOs-Ftv68JSlIrH/view?usp=sharing)" target="_blank">Click to view video</a>
+[https://drive.google.com/file/d/1uGL3KgEcODoDUNeTyEenPgROcjunVTa1/view](https://drive.google.com/file/d/1UYZ651Quj9t2w5Xk1vOs-Ftv68JSlIrH/view?usp=sharing)"
 
