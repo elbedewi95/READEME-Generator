@@ -1,11 +1,11 @@
 
-Title: README Generator
+Title: README generator
 
 License: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Description:
     
-it is a project that generates a readme file for your program
+this program generates a README.md file for your project
 
 Table Of Contents:
 1.  <a href= "#inst">Installation</a>
@@ -24,7 +24,7 @@ npm install inquirer@8.2.4
 
 2. <p id="use">Usage:</p>
 
-they need to know javascript and nodejs
+javascript and nodejs
 
 3. <p id="contr">Contributions:</p>
 
@@ -34,7 +34,7 @@ contributions allowed
     
 npm test
 
-5. <p> id="questions">Questions:</p>
+5. <p> id="questions">Questions: </p>
 E-mail: vickybedewi-95@hotmail.com
 GitHub: github.com/elbedewi95
 

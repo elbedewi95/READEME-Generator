@@ -35,7 +35,7 @@ ${responses.contribution}
     
 ${responses.testCommand}
 
-5. <p> id="questions">Questions:</p>
+5. <p> id="questions">Questions: </p>
 E-mail: ${responses.email}
 GitHub: github.com/${responses.username}
 
