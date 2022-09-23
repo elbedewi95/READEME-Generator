@@ -50,6 +50,6 @@ GitHub: github.com/elbedewi95
 7. <p id= "video"> Demo Video: </p>
 <br> <br>
 <video>
-<source src="demo-video.mp4" type="video/mp4">
+<source src="demo-video.webm" type="video/mp4">
 </video>
 
