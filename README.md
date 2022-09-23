@@ -46,8 +46,7 @@ Table Of Contents:
 
 <img src="terminal-code.png">
 
-<br>
-7. <p id= "video"> Demo Video: </p>
+7. <p id= "video"> Demo Video:</p>
 
 <a href="https://drive.google.com/file/d/1uGL3KgEcODoDUNeTyEenPgROcjunVTa1/view" target="_blank">Click to view video</a>
 
